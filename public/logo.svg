@@ -1,16 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" fill="none">
-  <!-- Vertical parallel lines -->
-  <rect x="10" y="10" width="8" height="100" rx="2" fill="currentColor"/>
-  <rect x="26" y="10" width="8" height="100" rx="2" fill="currentColor"/>
-  <rect x="42" y="10" width="8" height="100" rx="2" fill="currentColor"/>
-  <rect x="58" y="10" width="8" height="100" rx="2" fill="currentColor"/>
+<svg width="300" height="150" viewBox="0 0 300 150" xmlns="http://www.w3.org/2000/svg">
+  <g fill="currentColor">
+    <path d="M40 100 L60 100 L75 50 L55 50 Z" />
+    <path d="M70 100 L90 100 L105 40 L85 40 Z" />
+    <path d="M100 100 L120 100 L135 30 L115 30 Z" />
+  </g>
 
-  <!-- Letter D -->
-  <path d="M85 10h30c26 0 42 18 42 50s-16 50-42 50H85V10zm22 20v60h8c14 0 20-10 20-30s-6-30-20-30h-8z" fill="currentColor"/>
-
-  <!-- Letter B -->
-  <path d="M172 10h32c18 0 28 8 28 24 0 10-5 17-14 20v1c12 3 18 12 18 23 0 18-12 32-34 32h-30V10zm22 36h6c8 0 12-4 12-12s-4-12-12-12h-6v24zm0 42h8c10 0 14-5 14-14s-5-14-14-14h-8v28z" fill="currentColor"/>
-
-  <!-- Letter H -->
-  <path d="M270 10h22v40h30V10h22v100h-22V70h-30v40h-22V10z" fill="currentColor"/>
+  <text x="145" y="100" font-family="Arial, sans-serif" font-weight="bold" font-size="70" letter-spacing="-2" fill="currentColor">DBH</text>
 </svg>
